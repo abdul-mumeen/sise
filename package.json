@@ -1,0 +1,10 @@
+{
+  "name": "sise",
+  "version": "1.0.0",
+  "description": "a simple to-do app built with React, Node and Firebase",
+  "main": "server.js",
+  "repository": "git@github.com:abdul-mumeen/sise.git",
+  "author": "Abdul-Mumeen Olasode",
+  "license": "MIT",
+  "private": false
+}
